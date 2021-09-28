@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow</title>
+    <g id="Navigation-Delivery" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Breadcrumb-Options-061720" transform="translate(-379.000000, -1076.000000)" fill="#747678">
+            <path d="M382.08135,1082.08135 L382.08135,1077.24264 L383.242641,1077.24264 L383.242641,1083.24264 L377.242641,1083.24264 L377.242641,1082.08135 L382.08135,1082.08135 Z" id="Arrow" transform="translate(380.242641, 1080.242641) rotate(315.000000) translate(-380.242641, -1080.242641) "></path>
+        </g>
+    </g>
+</svg>
